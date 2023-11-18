@@ -9,7 +9,7 @@
 <br>
  
   <p align="center">  
-  <a href="https://telegra.ph/file/a175fe461a061f2159e7f.jpg">
+  <a href="https://telegra.ph/file/24e839872e6d71ec648ab.jpg">
     <img alt="king-Amda-md" height="300" src="https://telegra.ph/file/a175fe461a061f2159e7f.jpg">
     
   
