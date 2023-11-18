@@ -1,0 +1,33 @@
+{
+  "name": "KING-AMDA-MD (1.0.0)",
+  "description": "KING-AMDA-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+  "logo": "https://telegra.ph/file/a175fe461a061f2159e7f.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "king-amda-md"],
+  "success_url": "/",
+
+  "env": {
+    "BOT_NUMBER": {
+      "description": "Put the number here.",
+      "required": true
+    },
+    "SESSION_ID": {
+      "description": "Put your session Id here.",
+      "required": true
+    },
+    "GITHUB_USERNAME": {
+      "description": "Put your github username here.",
+      "required": true
+    },
+    "GITHUB_AUTH_TOKEN": {
+      "description": "Put your github authtoken here.",
+      "required": true
+    }   
+},
+
+     "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+     ],
+  "stack": "heroku-22"
+}
